@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-  ⚙언어
+  🛠언어
 </summary>
   <br>
   
